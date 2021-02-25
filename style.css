@@ -63,3 +63,8 @@ article {
 aside, article {
     margin-top: 10px;
 }
+
+footer {
+    background-color: #8801FE;
+    margin-top: 5px;
+}
