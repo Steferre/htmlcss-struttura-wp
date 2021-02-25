@@ -10,3 +10,14 @@
     margin-top: 20px;
 }
 /*fine sezione parametri di reset generici*/
+
+/*sezione che da le specifiche dei vari box colorati*/
+.box {
+    width: 100%;
+    height: 50px;
+    /*margin-top: 10px;*/
+}
+
+header {
+    background-color: #E579E6;
+}
