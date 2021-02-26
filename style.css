@@ -38,7 +38,7 @@ header {
     height: 35px;
 }
 
-.clearfix {
+.clearfix::after {
     content: "";
     display: table;
     clear: both;
